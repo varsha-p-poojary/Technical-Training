@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+    printf("Varsha Poojary\nD/O Purushotham PK\nb-12\nKaana road\nAlangar\nMoodbidri 574227\n");
+    return 0;
+}
